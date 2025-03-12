@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from request to resolution osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,9 +17,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
+- Request
+- Assignment
+- Issue
 - Resolution
 
 <h2>Lifecycle Stages</h2>
@@ -30,25 +30,26 @@ The stages of tickets are Request, Assignment, Issue, and Resolution. Request is
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img alt="Screenshot 2025-03-12 at 10 40 30 AM" src="https://github.com/user-attachments/assets/dcb2bb08-fe7f-453f-8153-5307f9f8a1ba" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ken from Accounting sent in a request, saying that the printer wasn't working. The ticket was assigned to Ray. The SLA level was Sev-C. Ray, or me acting as Ray, conversed with Ken and wrote notes of their conversation. Ken, through Devices and Printers on his computer, checked that the printer was offline. It was determined that the network cable needed to be plugged in again because sometimes a printer may lose its connection. After the ticket was solved, Ray resolved the ticket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img alt="Screenshot 2025-03-12 at 10 47 44 AM" src="https://github.com/user-attachments/assets/88fbf8a8-c9fd-46a6-9ea4-ec141390c954" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Karen from Marketing says that her computer won't turn on. She pressed the power button, but nothing happened. She needs to access her files for a meeting in an hour. The ticket was assigned to Ray, and the SLA was put at SEV-A, the highest priority. Ray took notes throughout their conversation with an internal note. Her computer was plugged into the power strip. The power strip was off and then turned on, and still nothing. However, the wall outlet worked. It was determine that the power strip was bad, and it needed to be replaced. The ticket was resolved.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img alt="Screenshot 2025-03-12 at 10 57 25 AM" src="https://github.com/user-attachments/assets/65b0615f-8bd7-4a7b-8be3-aeb7163cd7b8" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+David from Sales submitted a ticket about his laptop, and that he needed it for a client presentation. The ticket was assigned to Ray, and he took notes of their conversation. He also assigned the SLA to Sev-A. David's laptop was working normal in the morning, but now the screen is completely black. There's no sign of life on the screen. With an external monitor, the screen displayed on it, but not on the computer. Ray suggested that David's computer needed a power drain reset because of a static charge. A power drain reset drains the residual power and resets the screen. He went through the steps with David, and the ticket was resolved.
 </p>
 <br />
